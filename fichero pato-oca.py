@@ -7,3 +7,5 @@ def ocapato(lista,posicion):
 posicion=random.randrange(int(len(lista)))
 
 print(ocapato(lista,posicion))
+
+#Cambio
